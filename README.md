@@ -5,4 +5,4 @@ Basic arithmetic operations: addition, subtraction, multiplication, and division
 Clear button to reset the calculator display.
 Responsive design that adapts to different screen sizes.
 ## live Demo :
-click on :
+click on :https://wissemkarous.github.io/Calculator_Js-HTML-CSS/
